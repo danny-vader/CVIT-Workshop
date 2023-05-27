@@ -75,3 +75,14 @@ Link - https://drive.google.com/drive/folders/14HaTBqXcoLNFfeN0nS9_axgGvzeZ8oSE?
 - Working through hog transformations and SGD classifiers
 - Plotting confusion matrices after classification
 - Detecting faces using pre-trained models based on single shot detector
+## Day 6
+### Session 1
+---
+- Understanding how to go about research
+- Making presentations and report
+- Looking into good research papers and understanding how to write one
+### Session 2
+---
+- Walkthrough of W&B
+-  Basics of image captioning
+- Understanding concurrency, multi-processing, multi-threading and multi-modality

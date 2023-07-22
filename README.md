@@ -86,3 +86,7 @@ Link - https://drive.google.com/drive/folders/14HaTBqXcoLNFfeN0nS9_axgGvzeZ8oSE?
 - Walkthrough of W&B
 -  Basics of image captioning
 - Understanding concurrency, multi-processing, multi-threading and multi-modality
+## Day 7 
+### Session 1
+---
+- Introduction to MLP and CNN
